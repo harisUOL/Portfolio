@@ -1,3 +1,3 @@
 # Portfolio
-Personal Portfolio of project and blogs
+Personal Portfolio of project and blogs.
 <hr>
